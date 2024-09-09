@@ -1,4 +1,4 @@
-<h1>🛒 Meu Projeto de E-commerce <span>👉 <a href="https://ecomercebyniel.netlify.app">Link do projeto (Deploy)</a></span> </h1>
+<h1>🛒 Meu Projeto de E-commerce </h1>
 
 
 Olá, eu sou Daniel Assis, técnico em desenvolvimento web. Meu interesse por programação começou ainda na infância, quando comecei a criar algoritmos simples em C e explorar projetos com Arduino. Desde então, meu objetivo tem sido crescer e evoluir continuamente no campo da tecnologia.
