@@ -1,6 +1,9 @@
-<h1>🚨 Você está visualizando uma cópia do repositório <span><a href="https://github.com/nielassis/ecomerce-vue">Ecomerce</a></span></h1>
+<h1>🚨 Você está visualizando uma cópia melhorada do repositório <span><a href="https://github.com/nielassis/ecomerce-vue">Ecomerce</a></span></h1>
 
 <h2>ATENÇÃO ⚠️</h2>
-• Este repositório não possui DEPLOY ativo
-• Este repositório usa frameworks
-• Este repositório não faz parte do desafio ALURA & GEMINI
+<span>• Este repositório não possui DEPLOY ativo</span>
+<span>• Este repositório usa frameworks</span>
+<span>• Este repositório NÃO faz parte do desafio ALURA & GEMINI</span>
+
+
+<h4>👨‍💻 ESTE repositório CLONE MELHORADO foi feito com a única intensão de praticar e melhorar os conceitos vue.js</h4>
