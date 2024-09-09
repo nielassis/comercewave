@@ -11,3 +11,6 @@
 </div>
 
 <h4>👨‍💻 ESTE repositório CLONE MELHORADO foi feito com a única intensão de praticar e melhorar os conceitos vue.js</h4>
+
+
+Você pode testar este código baixando ele em sua máquina local 🖥️⬇️
