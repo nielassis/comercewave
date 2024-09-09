@@ -3,7 +3,9 @@
 <div display:flex flex-direction:column>
 <h2>ATENÇÃO ⚠️</h2>
 <span>• Este repositório não possui DEPLOY ativo</span>
+  
 <span>• Este repositório usa frameworks</span>
+
 <span>• Este repositório NÃO faz parte do desafio ALURA & GEMINI</span>
 </div>
 
